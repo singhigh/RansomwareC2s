@@ -1,5 +1,6 @@
 Ransomware C2 Servers Collection
 
+# Credit to BleepingComputer, Cisco Blog, WooYun, Servers & IPs are collected from Internet.
 #!!!NO CLICK IN THE URLS IN YOUR IMPORTANT WINDOWS COMPUTER!!!
 
 #####TeslaCrypt
@@ -57,3 +58,9 @@ localburialinsuranceinfo.com/zDJRc8.phpsmfinternational.com/AYNILr.php
 78.40.108.39
 149.202.109.205
 46.148.20.32
+
+##### vvv (TeslaCrypt Old Version)
+crown.essaudio.pl/media/misc.php
+graysonacademy.com/media/misc.php
+grupograndes.com/media/misc.php
+grassitup.com/media/misc.php
