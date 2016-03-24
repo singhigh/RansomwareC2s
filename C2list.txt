@@ -1,7 +1,7 @@
 Ransomware C2 Servers Collection
 
 # Credit to BleepingComputer, Cisco Blog, WooYun, Servers & IPs are collected from Internet.
-#!!!NO CLICK IN THE URLS IN YOUR IMPORTANT WINDOWS COMPUTER!!!
+#!!!NO CLICK IN THE URLS IN YOUR IMPORTANT WINDOWS COMPUTER!!! 非专业人士请勿直接打开下列任意网址！！！
 
 #####TeslaCrypt
 3m3q.org/wstr.php
